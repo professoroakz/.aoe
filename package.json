@@ -1,0 +1,29 @@
+{
+  "name": "aoe",
+  "version": "1.0.0",
+  "description": ".aoe for all oktays projects and things",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "aoe",
+    "oktay"
+  ],
+  "author": "professoroakz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professoroakz/.aoe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/professoroakz/.aoe/issues"
+  },
+  "homepage": "https://github.com/professoroakz/.aoe#readme",
+  "files": [
+    "index.js",
+    ".aoe",
+    "README.md"
+  ]
+}
