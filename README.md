@@ -1,6 +1,6 @@
 # .aoe
 
-.aoe for all oktays projects and things
+.aoe for all oktays projects and things. also able to do for friends and family
 
 ## Installation
 
